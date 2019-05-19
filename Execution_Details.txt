@@ -1,0 +1,5 @@
+points to be noted:
+
+
+1. if commands like cat < filename 1 > filename 2 is executed, the prompt may give error, but still if checked in physical file location the new file would be created.
+2. if cd command is executed, a memory warning may pop-up but, if again checked using pwd, the command would have got executed.
